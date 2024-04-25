@@ -7,7 +7,10 @@
 #### INSTALL AWS CLI ON GITPOD CDE (VSCODE)
 
 In My Github code Repository, I need to click on Open Gitpod Button.
-It will open my code repository on VSCODE install on Gitpod.
+It will open my code repository on VSCODE install on Gitpod. see the screenshot below :
+
+![GITPOD DEV INTERFACE USING VSCODE ONLINE](assets/gitpod_captured.png)
+
 The current path, is the path that will automatically commit code to github when a change is made on it.
 Therefore, to install the AWS CLI, I need to do "cd.." to getback to the workspace directory where I can install AWS CLI.
 
@@ -73,6 +76,15 @@ aws budgets create-budget \
     --budget file://aws/json/budget.json \
     --notifications-with-subscribers file://aws/json/budget-notifications-with-subscribers.json
 ```
+#### How to upload file on github
+
+**GO TO** 
+/Journal/ and create an assets folder like the following
+aws-bootcamp-cruddur-2023/journal/assets/.keep
+commit the change and the new folder assets will appear there
+Go to that folder assets and upload file (images) you want to upload
+
+
 
 #### GREAT TOOL : AWS CALCULATOR
 
