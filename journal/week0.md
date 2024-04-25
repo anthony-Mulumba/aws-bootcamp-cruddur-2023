@@ -96,5 +96,64 @@ Go to that folder assets and upload file (images) you want to upload
 ![Cruddur Logical design](assets/LOGICAL_ARCHITECTURE_DESIGN.png)
 [Lucid chart link](https://lucid.app/lucidchart/ef0faaca-2246-4470-bf9f-38a2b46441c0/edit?viewport_loc=-1012%2C-1432%2C3840%2C1671%2C0_0&invitationId=inv_c8bcd7a0-7324-453e-8179-761f395bf003)
 
+##CREATE LIST WITH MARDOWN
+
+- This
+- is
+- a
+- unordered
+- list
+
+1. This
+2. is
+3. a
+4. ordered
+5. list
+
+## Table example
+
+|My|Cool|Table|
+|---|---|---|
+|Hello|World|!|
+
+
+## Code example
+
+```
+msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
+```
+```json
+{
+    "BudgetLimit": {
+        "Amount": "100",
+        "Unit": "USD"
+    },
+    "BudgetName": "Example Tag Budget",
+    "BudgetType": "COST",
+    "CostFilters": {
+        "TagKeyValue": [
+            "user:Key$value1",
+            "user:Key$value2"
+        ]
+    },
+    "CostTypes": {
+        "IncludeCredit": true,
+        "IncludeDiscount": true,
+        "IncludeOtherSubscription": true,
+        "IncludeRecurring": true,
+        "IncludeRefund": true,
+        "IncludeSubscription": true,
+        "IncludeSupport": true,
+        "IncludeTax": true,
+        "IncludeUpfront": true,
+        "UseBlended": false
+    },
+    "TimePeriod": {
+        "Start": 1477958399,
+        "End": 3706473600
+    },
+    "TimeUnit": "MONTHLY"
+}
+```
 
 
