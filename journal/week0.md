@@ -91,9 +91,10 @@ aws-bootcamp-cruddur-2023/journal/assets/.keep
 commit the change and the new folder assets will appear there
 Go to that folder assets and upload file (images) you want to upload
 
+#### LOGICAL ARCHITECTURE DESIGN WITH LUCID CHART
 
-
-#### GREAT TOOL : AWS CALCULATOR
+![Cruddur Logical design](assets/LOGICAL_ARCHITECTURE_DESIGN.png)
+[Lucid chart link](https://lucid.app/lucidchart/ef0faaca-2246-4470-bf9f-38a2b46441c0/edit?viewport_loc=-1012%2C-1432%2C3840%2C1671%2C0_0&invitationId=inv_c8bcd7a0-7324-453e-8179-761f395bf003)
 
 
 
