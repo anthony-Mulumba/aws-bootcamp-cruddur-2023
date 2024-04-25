@@ -73,6 +73,9 @@ gitpod /workspace/aws-bootcamp-cruddur-2023 (week-1) $
 - Add following two files : budget.json and budget-notifications-with-subscribers.json
 - insert command gotten from the AWS CLI documentation
 
+Here Below, my budget configuration :
+![MY CONFIGURED BUDGET IN MY AWS ACCOUNT](assets/myAWSbudgetConfiguration.png)
+
 #### execute the following commands :
 ```
 aws budgets create-budget \
