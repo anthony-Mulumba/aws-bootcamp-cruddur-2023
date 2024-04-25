@@ -14,6 +14,10 @@ It will open my code repository on VSCODE install on Gitpod. see the screenshot 
 The current path, is the path that will automatically commit code to github when a change is made on it.
 Therefore, to install the AWS CLI, I need to do "cd.." to getback to the workspace directory where I can install AWS CLI.
 
+To install the aws cli I go to the following link [AWS CLI INSTALL DOCUMENTATION PAGE](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) 
+
+To use the aws cli command I go to the link [AWS DOCUMENTATION CLI](https://docs.aws.amazon.com/cli/latest/reference/) 
+
 ```
 gitpod /workspace$ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 gitpod /workspace$ unzip awscliv2.zip
